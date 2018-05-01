@@ -1,7 +1,6 @@
 # wecare-api
 
-instalar nodejs y npm,
-una vez descargados instalar con npm install los paquetes de la api,
+descargar e instalar nodejs y npm, una vez instalados, debemos escribir npm install para descargar los paquetes necesarios en la api.,
 instalar mongo y correrlo como servicio:
 http://autoincremental.es/base-de-datos/mongodb/registrar-mongodb-como-un-servicio-del-sistema/
 
