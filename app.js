@@ -10,7 +10,6 @@ dotenv.load();
 const cookieParser = require('cookie-parser');
 const bodyParser = require('body-parser');
 const cors = require('cors');
-// const Reflect = require("reflect-metadata");
 const routes = require('./lib/routes');
 const extractJwt = require('./lib/routes/extract-jwt');
 const publicPath = require('./config/public');
